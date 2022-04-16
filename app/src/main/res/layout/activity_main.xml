@@ -177,7 +177,6 @@
                         android:layout_alignStart="@id/progress_bar"
                         android:layout_alignEnd="@id/progress_bar"
                         android:layout_alignBottom="@id/progress_bar"
-                        android:divider="@drawable/tall_dividers"
                         android:gravity="center"
                         android:orientation="horizontal">
 
@@ -613,7 +612,7 @@
                         android:layout_height="28dp"
                         android:layout_marginTop="1dp"
                         android:background="@drawable/rounded_rect"
-                        android:backgroundTint="@color/green_600"/>
+                        android:backgroundTint="@color/green_600" />
                     <RelativeLayout
                         android:layout_width="28dp"
                         android:layout_height="28dp"
